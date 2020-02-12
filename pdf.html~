@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SPARK LAB</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div id="container">
+
+ <div id="header"><h2> <b><font color=#dc143c size=6px></font></b><b><font color=#dc143c size=6px ></font></b>Bheemappa Halavar</font></h2> <br>
+</a>
+</div>
+  <div id="menu">  <!-- &nbsp; &nbsp;  &nbsp; &nbsp;   <a href="https://bhhmsrit.github.io/foc">  Home</a> &nbsp; &nbsp;  &nbsp; &nbsp; <a href="Courses.html">Courses</a> &nbsp; &nbsp;  &nbsp; <a href="alumni.html">    Research
+</a> &nbsp; &nbsp;   &nbsp; <a href="research.html">Resources</a> &nbsp; &nbsp; <a href="publication.html">Publications</a> &nbsp; &nbsp;  &nbsp;  <a href="lab.html">Contact Information</a> --> </div>
+
+  <div id="sidebar">
+    <div xmlns="http://www.w3.org/1999/xhtml" id="COMP_6032216321055268" class="sites-embed" role="complementary">
+      
+      <div id="sites-canvas" role="main">
+<hr>
+<p> Program to Display "Hello, World!"</p>
+<hr>
+<xmp>
+   #include <stdio.h>
+   int main() {
+       // printf() displays the string inside quotation(" "
+       printf("Hello, World!");
+       return 0;
+    }
+</xmp>
+<pre class="c-exec">
+<code>#include &lt;stdio.h&gt;
+int main() {
+   // printf() displays the string inside quotation
+   printf(&quot;Hello, World!&quot;);
+   return 0;
+}
+
+</div> 
+</div> 
+</div> 
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+    <div id="footer">
+<left>Copyright © BHH. All Rights Reserved </left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <right>   &nbsp; <font color=tomato>|</font> &nbsp;<a href="http://www.msrit.edu/department/cse.html"> Dept. of CSE</a> &nbsp;<font color=tomato>|</font> &nbsp;<a href=http://www.MSRIT.edu>MSRIT </a> </right> </div>
+</body>
+</html>

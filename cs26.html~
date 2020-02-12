@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SPARK LAB</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div id="container">
+
+ <div id="header"><h2> <b><font color=#dc143c size=6px></font></b><b><font color=#dc143c size=6px ></font></b> CS26 - FUNDAMENTALS OF COMPUTING</font></h2> <br>
+</a>
+</div>
+  <div id="menu"> <a href=""> </a> &nbsp; &nbsp;  &nbsp; &nbsp;  <a href="https://bhhmsrit.github.io/foc"> Home</a> &nbsp; &nbsp;  &nbsp; &nbsp; <a href="Courses.html">Courses</a> &nbsp; &nbsp;  &nbsp; <a href="alumni.html">    Research
+</a> &nbsp; &nbsp;   &nbsp; <a href="research.html">Resources</a> &nbsp; &nbsp; <a href="publication.html">Publications</a> &nbsp; &nbsp;  &nbsp;  <a href="lab.html">Contact Information</a>  </div>
+
+<div id="sidebar" style="hieght=700px">
+    <div xmlns="http://www.w3.org/1999/xhtml" id="COMP_6032216321055268" class="sites-embed" role="complementary"><h4 class="sites-embed-title"></h4>
+    <div class="sites-embed-content sites-embed-content-sidebar-textbox">
+
+      <div dir="ltr">
+          <hr align="left" style="width: 200px">
+
+        <div ><img style="border-radius: 20%" border="0" width="200" src="log.jpg" /></a>
+  <hr align="left" style="width: 200px">
+
+         <div> <font size="4"><span style="color:rgb(246,078,107)"> <b>  FUNDAMENTALS OF COMPUTING (CS26)
+</b></span></font> </div>
+  <div class="header">
+    <div class="title">
+    </div>
+  </div>
+             <hr align="left" style="width: 200px">
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+</div> 
+</div> 
+
+
+    <div class="container">
+
+  
+  <br>
+<h1>Course Syllabus</h1>
+                
+  <div class="main">    
+    <div class="content">
+                  <iframe align="center" id="myFrame" style="display:none" width="600" height="600"></iframe>
+<input type="button" value="Click here for the course objectives, outcomes, and the detailed syllabus" onclick = "openPdf()"/>
+<script type="text/javascript">
+function openPdf()
+{
+var omyFrame = document.getElementById("myFrame");
+omyFrame.style.display="block";
+omyFrame.src = "CS26_2019.pdf";
+}
+ </script>
+
+  
+                    </p>
+
+<p>
+                        <b>Text Books</b>
+
+                        
+                          <ul>
+                            <li>
+                              
+                             E. Balaguruswamy - Programming in ANSI C, TMH, 7th Edition, 2016
+                            </li>
+                            <li>
+
+                           Delores M. Etter - Engineering Problem Solving with C, Third Edition, Person Education,2012
+                             </li>
+                            <li>
+                               Reema Thareja - Programming in C, 2ndEdition, Oxford University press2015
+                           </li>  </ul>
+                        <b>Reference Books</b>
+                          <ul>
+                            <li>
+                             Behrouz A Forouzan & Richard F Gilberg - Computer Science: A Structural ProgrammingApproach using C, Thomas Brooks publication, 2nd Edition, 2006.
+                          </li>
+                            <li> Yashvant Kanetkar - Let Us C, BPB Publications, 15th Edition, 2016
+
+                        </li>  </ul>
+
+                        </p>
+
+        
+                    <h1>Course Evaluation</h1>
+                    <p><b>Quizzes, Tutorials, Assignments - 20%, CIE - 30%, SEE - 50%. </b>
+</p>
+                        <h1>Assignments/Lab Work</h1>
+
+                        <p>
+                        <a href="./null.pdf">Assignment- 1</a>.
+                        </p>
+
+
+                          <p align="center">  </p><h1>Class Lectures</h1>
+                          <div class="css-table" style="width:700px" align="center">
+                            <table >
+                                <tr>
+                                  <td>  </td> <td> Topics </td> <td> Slides</td>
+                                </tr>
+                                <tr>
+                                  <td> Week 1 </td> <td> <a href="">Computing Systems: Hardware and Software,</a>  </td> <td><a href="./notes/foc/week00.pdf">  Week00</a>.</td>
+                                </tr>
+
+                              
+
+                               <tr>
+                                    <td>  </td> <td> <a href=""> An Engineering problem –Solving Methodology: </a></td><td><a href="./notes/foc/week0.pdf">Week00</a> </td>
+                                </tr>
+                                <tr>
+                                  <td></td> <td> Overview of C: Importance of C</a></td> <td><a href="./notes/forc/week00.pdf">Week00</a> </td>
+                                </tr>
+
+                                
+   <tr>
+                                  <td>Week 2</td> <td> <a href="">Constants, Variables and Data types:</a></td> <td><a href="./notes/foc/week01.pdf">Week10</a> </td>
+                                </tr>
+
+
+<tr>
+                                  <td></td> <td> <a href="">Managing Input and Output Operations:</a></td> <td><a href="./notes/foc/week01.pdf">Week10</a> </td>
+                                </tr>
+                        
+
+
+                            </table>
+
+                          </div>
+
+
+                </div>
+</div>
+</p>
+</div>
+</div>
+
+
+<br/>
+<br>
+
+
+                <div id="footer">
+<left>Copyright © BHH. All Rights Reserved </left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <right>   &nbsp; <font color=tomato>|</font> &nbsp;<a href="http://www.msrit.edu/department/cse.html"> Dept. of CSE</a> &nbsp;<font color=tomato>|</font> &nbsp;<a href=http://www.MSRIT.edu>MSRIT </a> </right> </div>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SPARK LAB</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div id="container">
+<div id="logo1"> <img width="130" height="130" src=images/nitklogo.png style="float:right"></div>
+<div id="logo2"><img width="120" height="130" src=images/2.png style="float:left"></div>
+  <div id="header"> <a href="http://spark.nitk.ac.in/index.html"><h1> <center><b><font color=#dc143c>S</font></b>YSTEMS, <b><font color=#dc143c>P</font></b>ARALLELIZATION & <b><font color=#dc143c>A</font></b>RCHITECTURE <b><font color=#dc143c>R</font></b>ESEARCH </font></b> @ </font></b>NIT <b><font color=#dc143c>K</font></b>ARNATAKA  <font color=#dc143c>(SPARK)</font> </center>  <center>  DEPARTMENT  OF COMPUTER SCIENCE AND ENGINEERING</center></h1> <br> <br>
+</a>
+</div>
+  <div id="menu"> <a href="index.html"> Home</a> &nbsp; &nbsp;  <a href="services.html">People</a> &nbsp; &nbsp; <a href="alumni.html">Alumni</a> &nbsp; &nbsp;  <a href="research.html">Research</a> &nbsp; &nbsp; <a href="publication.html">Publications</a> &nbsp; &nbsp;  <a href="lab.html">Lab Resources</a> &nbsp; &nbsp; <a href="visitors.html">Visitors</a> &nbsp; &nbsp; <a href="press.html">Gallery</a> &nbsp; &nbsp; <a href="contact.html">Contact Info</a> </div>
+  <div id="sidebar">
+    <h1>News</h1>
+  <a href="http://www.hipc.org/hipc2016/"> <marquee loop="-1" scrollamount="2" width="100%" direction="up">............</marquee> </a> 
+<br> <br>
+<a href="http://vlsiconference.com/"> <marquee > </marquee> </a>
+<a href="http://vlsiconference.com/"> <marquee > </marquee> </a>
+<a href="http://vlsiconference.com/"> <marquee > </marquee> </a>
+ <a href="http://vlsiconference.com/"> <marquee loop="-1" scrollamount="2" width="100%" direction="up" > ............... </marquee> </a>
+<br>
+<br>
+<br> <br> <br>
+<a href="http://vlsiconference.com/"> <marquee loop="-1" scrollamount="2" width="100%"   direction="up" > Upcoming news</marquee> </a>
+  </div>
+  <div id="cont">
+  	<h1>Welcome to SPARK Lab </h1>
+    <p > A warm and hearty welcome to fellow researchers, students and enthusiasts. Our research is focused on the areas of Network on chips(NOC), Parallelizations and Computer architecture.</P>
+<P> Our motto: Better Future for Computing!.</p>
+    <h1>On Going Projects</h1>
+             <p align="justify" > As Moore's law continues to prevail, more cores and components have been crammed onto a single die. The surge in on-chip communication has lead to a structured hardware communication framework - the Network-on-Chip. Our group focusses on various issues in this challenging and exciting area.</p>
+
+<table cellspacing="10">
+<tr cellspacing="10">
+<td> <a href="learn.html"><img width="150" height="150"  src="images/learn.jpg" style="float:left"></a></td>
+<td>  <p> <b> 1. Machine Learning based Performance and Power prediction of NoCs  </b> </p> 
+<p align="justify">
+Performance accurate software simulators are generally too slow for interactive use. We are building a machine learning framework that uses existing results of the simulators (Booksim 2.0 and Orion) and predicts the overall performance and power of the NoC.</p>
+ </td> </tr>
+<tr cellspacing="10">
+<td><a href="3D.html"><img width="150" height="150" src=images/3D.jpg style="float:left"></a></td>
+<td>  <p> <b> 2. Design of an Efficient 3D-NoC Architecture for Modern Processors </b> </p> 
+<p align="justify"> NoCs on 3D ICs technology provides an opportunity to better the on chip communication delay, energy and area parameters compared to the 2D-NoCs. We are extending the existing simulators to support 3D-NoC topologies.</p>
+ </td> 
+</tr> 
+<tr cellspacing="10">
+<td><a href="fpga.html"><img width="150" height="150" src=images/FPGA.png style="float:left"></a></td>
+<td>  <p> <b> 3. On-Chip Network simulation acceleration using FPGA  </b> </p>
+<p align="justify" > Large scale design space exploration of NoCs can be very time-intensive. To address this issue we propose hardware based acceleration using FPGA to speed up the NoC simulation. Fast and accurate simulators provide a vehicle for the rapid exploration of microprocessor designs. FPGAs are made up of thousands of small interconnected lookup tables that can be used to iterate easily in an incremental design debug cycle similar to software development life cycle. </p>
+ </td> 
+</tr> 
+<tr cellspacing="10">
+<td> <a href="image.html"><img width="150" height="150" src=images/image1.jpg style="float:left"></a></td>
+<td>  <p> <b> 4.  Fusion of Remote Sensing Satellite Images  </b> </p>
+<p align="justify" > Remote Sensing systems, particularly those deployed on satellites, provide a repetitive and consistent view of the Earth. To meet the needs of different remote sensing applications the systems offer a wide range of spatial, spectral, radiometric and temporal resolutions. Satellites usually take several images from frequency bands in the visual and non-visual range.</p>
+ </td> 
+</tr> 
+</table>
+</div>
+
+  <div id="footer">
+<left>Copyright © 2016 SPARK LAB. All Rights Reserved </left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <right>  <a href=http://spark.nitk.ac.in/index.html>SPARK Lab</a> &nbsp; <font color=tomato>|</font> &nbsp;<a href=http://www.cse.nitk.ac.in/> Dept. of CSE</a> &nbsp;<font color=tomato>|</font> &nbsp;<a href=http://www.nitk.ac.in>NITK Surathkal</a> </right> </div>
+</body>
+</html>
