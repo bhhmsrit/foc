@@ -110,12 +110,7 @@
 </div>
 <div id="contt">
 
-<table cellspacing="10">
-<tr>  
- <td>   <h1>                   Take Quiz (Strings-1)    <button type="button"> <a  href="./quiz.html"> >Click here! </a> </button> </h1>
- </td>                
- </tr>
-	</table>
+
 <table cellspacing="10">
 <tr>
 <td  colspan=2>
