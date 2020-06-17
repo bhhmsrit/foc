@@ -4,6 +4,13 @@
 <title>SPARK LAB</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("README.html"); 
+    });
+    </script> 
+  
 </head>
 <body>
 <div id="container">
@@ -40,6 +47,8 @@
 <div>&#x1f4e7; <a href="mailto:bheemhh@gmail.com">bheemhh@gmail.com</a></div>
 <div><hr />
 </div>
+	<div id="includedContent"> </div>
+  
 <div><a href="https://bhhmsrit.github.io/bhh" rel="nofollow"><b>Website</b></a><br />
 </div></div></div></div>
 <div xmlns="http://www.w3.org/1999/xhtml" id="COMP_013710544702372207" class="sites-embed" role="complementary"><h4 class="sites-embed-title"></h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr">
