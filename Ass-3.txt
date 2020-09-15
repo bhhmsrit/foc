@@ -1,0 +1,23 @@
+-------------
+Assignment -3
+-------------
+UNIT-3
+----------
+
+1. Write and explain the centralized algorithm to implement total order and causal order of messages. Write the drawbacks and the complexity of the algorithm.
+
+2. Explain in detail how termination detection can be achieved using distributed snapshots.
+
+3.Explain the total order, which requires that all messages be received in the same order by the recipients of the messages
+
+4. Exaplain termination detection by weight throwing
+
+5. explain Designing of a (centralized) algorithm to create a propagation tree satisfying the properties.
+
+6. Expalin State the atomic model of execution in detial.
+
+7. Expalin classes of source–destination relationships for multicast algorithms
+
+8.  demonstrate causal ordering if closed groups are assumed for multicast algorithms
+9.  demonstrate  total ordering for multicast algorithms.
+
