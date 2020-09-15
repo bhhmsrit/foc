@@ -1,0 +1,17 @@
+-------------
+Assignment -4
+-------------
+UNIT-4
+----------
+
+1. Singhal’s dynamic information-structure algorithm.
+2. requirements of mutual exclusion algorithms
+3.  Why do we need this condition for guaranteeing mutual exclusion?In (lamport’s algorithm)
+3. REPLY message in lamport’s algorithm?
+4. Metrics used to measure the performance of mutual exclusion algorithms.
+5. Main Issues in deadlock detection
+6. Correctness criteria of a deadlock detection algorithm
+7. Usage of probe message in Chandy–Misra–Haas algorithm for the AND model
+9. working of distributed mutual exclusion algorithm developed by lamport.
+10 Operations performed by Kshemkalyani–Singhal algorithm to detect deadlocks in the p-out-of-q model.
+
