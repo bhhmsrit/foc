@@ -1,0 +1,12 @@
+1.	How will be the predicates specification on system state plays important role ?
+
+2. a.	Failure model  b.	Channel reliability c.	Agreement variable
+3.	Show the impossible results of consensus problem.
+4.	What is the purpose of wait for graph usage in deadlock ?
+5.	Show two phase detection of a stable property with appropriate figure and explanation.
+6.	 Write algorithm to detect a relational predicate by examining the state lattice which is on-line and centralized.
+7.	Show the two broad approaches to detect conjunctive predicates.
+8.	How are replication strategies work in p2p system ?
+9.	Explain the simple object location algorithm for chord distributed hash table.
+10.	 Illustrate the algorithm by specifying the query lookup and by showing mappings to the chord address space.
+11.	Explain the advantages of unstructured overlays
