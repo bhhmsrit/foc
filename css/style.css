@@ -54,32 +54,32 @@ padding: 30px 5px 0px 3px;
 margin: 0;
 }
 #header a {
-color: #121212;
+
 text-decoration: none;
 font-size: 20px; 
 font-family: "Myriad Pro", "Arial Narrow";
 }
 
 #menu {
-background-color: #7a9cc4; 
+background-color: #ffffff; 
 padding: 6px 0 6px 40px;
 }
 
 #menu a {
-color: #000000;
+
 text-decoration: none; 
 font-size: 18px; 
 font-family: "Lucida Sans Unicode";
 }
 
 #menu a:hover {
-color: #f0ffff;
+color: #121212;
 }
 
 #sidebar {
 float: left;
 width: 240px;
-height: 600px
+height: 200px
 padding: 10px 20px 10px 10px;
 margin: 0;
 font-size:13px; 
