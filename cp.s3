@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Courses</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<title>HPC</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div id="container">
+
+ <div id="header">
+	 <center> 
+		 <hr align="center" style="width: 700px"> <font size="6"><span style="color:rgb(246,078,107)"> <b>  Course:  High Performance Computing (CS72)  </b></span></font>
+		  <hr align="center" style="width: 700px">
+
+</div>
+  <div id="menu">   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   <a href="https://bhhmsrit.github.io/foc">  Home</a>   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   &nbsp; &nbsp; <a href="Courses.html">Courses</a>   </div>
+
+
+
+
+
+
+<div id="contt">
+
+<br>
+
+<center> <hr align="center" style="width: 700px"> <font size="3"><span style="color:blue"> Welcome to the <b> High Performance Computing (CS72)  </b></span></font>  </h1> 
+</br>
+<font size="3"><span style="color:blue"> <b>  Aug-Dec -2020  </b></span></font>
+<hr align="center" style="width: 700px">
+</center>
+<br>
+                            <table style="width:700px" align="Center">
+<tr> 
+	<td> 
+<font size="4"><span style="color:rgb(246,078,107)"> <b>  Syllabus: <a href="hpc.pdf"> High Performance Computing   </a> </b></span></font>  </h1> 
+</td> <td> <font size="4"><span style="color:rgb(246,078,107)"> <b>  Course-Coordinators  </b></span></font></td> </tr>
+<tr> 
+	<td> <hr align="left" style="width: 310px">
+<font size="4"><span style="color:rgb(246,078,107)"> <b>  Assignment <a href="A-1.pdf"> A-1  </a> </b></span></font>  </h1>
+</br>
+</td> <td>1.   Mallegowda M </td> </tr>
+<tr> 
+	<td> 
+<hr align="left" style="width: 150px">
+<font size="4"><span style="color:rgb(246,078,107)"> <b>  Pthreads <a href="https://docs.google.com/forms/d/e/1FAIpQLScswtWqbcyQvrgyHkD5idgUQAhB441ycvuNV--OJhhGLdRHrw/viewform?usp=sf_link">  Quiz  </a> </b></span></font>  </h1>
+</br>
+</td> <td>2. Bheemappa H </td> </tr>
+
+<tr> 
+<td colspan="2" > <hr align="left" style="width: 610px">
+	<font size="4"><span style="color:rgb(246,078,107)"> <b>  Non-CIE Submission( <b> By 06 NoV 2020</b>) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI1aqoVXIaBU7Pt7XSCnNftRNHO5iBHA1DbXkjrTnOLjzWkA/viewform?usp=sf_link"> Submission form  </a> </b>, <b> <a href="https://docs.google.com/spreadsheets/d/1l2ZpTJuZgpMGVLjPof_qUcwHd7TBFSjLf8H18DRZKxY/edit?usp=sharing"> View Submissions </a> </b> </span></font>  </h1>
+</br>
+</td> </tr>
+</table>
+
+<hr align="left" >
+
+                    <table style="width:700px" align="Center">
+			    <tr> 
+
+        
+<b>Text Books</b>
+
+                        
+ <ul>
+                            <li>
+Rubin H Landau, Oregon State University, http://science.oregonstate.edu/ rubin/.
+</li> <li>
+Ananth Grama,Anshul Gupta,Vipin kumar, George Karypis, Introduction to parallel computing, second edition, 2003, Pearson education publishers.
+</li> <li>
+David B Kirk, Wen-mei W. Hwu, "Programming Massively Parallel Processors - A Hands-on Approach", First Edition, Elsevier and nvidia Publishers, 2010.
+</li>            
+           </ul>
+         <b>Reference Books</b>
+                          <ul>
+                            <li>
+           Thomas Rauber and Gudula Runger Parallel Programming for Multicore and cluster systems,Springer International Edition, 2009. </li> </li>
+Hennessey and Patterson Computer Architecture: A quantitative Approach, Morgan Kaufman Publishers, 2011.
+</li> </li> 
+Michael J.Quin “Parallel Programming in C with MPI and Open MP”, McGraw Hill.
+</li>
+
+              
+
+</ul>
+
+                        </p>
+</tr>
+</table>
+                         <h1>Class Lectures</h1>
+<hr>
+<tr> <td>   <b> Open_Mp-example  </b> </td> <td><a href="./OpenMP_Solutions.zip"> Click here </a></td> <td> </td>  </tr> 
+
+<hr>                          
+<div class="css-table" style="width:700px" align="right">
+                            <table style="width:700px" align="Center">
+				 
+   
+				    
+                                <tr>
+                                  <td>  </td> <td> Topics </td> <td> Slides</td>
+                                </tr>
+                                <tr>
+
+                                  <td> Week 1 </td> <td> <a href="">Introduction to High-Performance Computers</a>  </td> <td><a href="./hpc/week01.pdf">  Week00</a>.</td>
+                                </tr>
+				     <tr>
+
+                                  <td> Week 2 </td> <td> <a href="">Multiple-Core Processors, Vector Processors </a>  </td> <td><a href="./hpc/week02.pdf">  Week01</a>.</td>
+                                </tr>
+				    <tr>
+                                <td> Week 3 </td> <td> <a href="">Programming Shared Address Space Platforms:</a>  </td> <td><a href="./hpc/week03.pdf">  Week02</a>.</td>
+				    
+                                </tr>
+
+<!--                              
+                               <tr>
+                                    <td>  </td> <td> <a href=""> An Engineering problem –Solving Methodology: </a></td><td><a href="./notes/foc/week00.pdf">Week01</a> </td>
+                                </tr>
+                                <tr>
+                                  <td></td> <td> Overview of C: Importance of C</a></td> <td><a href="./notes/foc/week00.pdf">Week02</a> </td>
+                                </tr>
+                                
+   <tr>
+                                  <td>Week 2</td> <td> <a href="">Constants, Variables and Data types:</a></td> <td><a href="./notes/foc/week01.pdf">Week10</a> </td>
+                                </tr>
+<tr>
+                                  <td>Week 2</td> <td> <a href="">Managing Input and Output Operations:</a></td> <td><a href="./notes/foc/week01.pdf">Week11</a> </td>
+                                </tr>
+                        
+<tr>
+                                  <td>Week 3</td> <td> <a href="">Freezing Temperature of Seawater:</a></td> <td><a href="./notes/foc/freez.pdf">Week11</a> </td>
+                                </tr>
+-->
+                            </table>
+
+
+        </div>
+                  <br/>
+
+<br/>
+
+
+
+</td>
+</tr>
+</table>
+</div>
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+
+    <div id="footer">
+<left>Copyright © BHH. All Rights Reserved </left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <right>   &nbsp; <font color=tomato>|</font> &nbsp;<a href="http://www.msrit.edu/department/cse.html"> Dept. of CSE</a> &nbsp;<font color=tomato>|</font> &nbsp;<a href=http://www.MSRIT.edu>MSRIT </a> </right> </div>
+</body>
+</html>
